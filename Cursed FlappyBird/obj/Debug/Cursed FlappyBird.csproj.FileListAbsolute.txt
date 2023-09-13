@@ -1,0 +1,10 @@
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Cursed Flappy Bird\Cursed FlappyBird\Cursed FlappyBird\bin\Debug\Cursed FlappyBird.exe.config
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Cursed Flappy Bird\Cursed FlappyBird\Cursed FlappyBird\bin\Debug\Cursed FlappyBird.exe
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Cursed Flappy Bird\Cursed FlappyBird\Cursed FlappyBird\bin\Debug\Cursed FlappyBird.pdb
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Cursed Flappy Bird\Cursed FlappyBird\Cursed FlappyBird\obj\Debug\Cursed FlappyBird.csproj.AssemblyReference.cache
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Cursed Flappy Bird\Cursed FlappyBird\Cursed FlappyBird\obj\Debug\Cursed_FlappyBird.Properties.Resources.resources
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Cursed Flappy Bird\Cursed FlappyBird\Cursed FlappyBird\obj\Debug\Cursed FlappyBird.csproj.GenerateResource.cache
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Cursed Flappy Bird\Cursed FlappyBird\Cursed FlappyBird\obj\Debug\Cursed FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Cursed Flappy Bird\Cursed FlappyBird\Cursed FlappyBird\obj\Debug\Cursed FlappyBird.exe
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Cursed Flappy Bird\Cursed FlappyBird\Cursed FlappyBird\obj\Debug\Cursed FlappyBird.pdb
+C:\Users\rschillmeier\Desktop\Programme\C#\einfache programme\Cursed Flappy Bird\Cursed FlappyBird\Cursed FlappyBird\obj\Debug\Cursed_FlappyBird.pipeDownOne.resources
